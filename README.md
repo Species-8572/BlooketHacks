@@ -1,5 +1,6 @@
 # BlooketHacks
 Working Blooket hacks
+
 How to install them:
 
 1: Go on your pc and open chrome.
