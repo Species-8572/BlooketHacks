@@ -13,4 +13,4 @@ How to install them:
 
 5: If you look in your bookmarks you'll notice the cheats there.
 
-6: That's it. enjoy. :)
+6: That's it. enjoy :).
